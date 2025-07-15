@@ -1,0 +1,1 @@
+// https://github.com/tomoima525/noir-merkle-root/blob/main/src/lib.nr
