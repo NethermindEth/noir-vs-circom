@@ -1,0 +1,1 @@
+# Simple comparison between Noir and Circom for a merkle root
